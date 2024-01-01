@@ -1,1 +1,1 @@
-# Sensor-Temperature-Prediction-and-forecasting
+The project utilized machine learning algorithms, including Autoregressive Integrated Moving Average (ARIMA) and Seasonal Autoregressive Integrated Moving Average (SARIMA) model and communication protocol like MQTT for predicting the sensor temperature.
